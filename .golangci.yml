@@ -8,6 +8,7 @@ linters:
     - contextcheck
     - depguard
     - errorlint
+    - exptostd
     - goconst
     - gocritic
     - gocyclo
